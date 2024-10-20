@@ -2,7 +2,7 @@
 
 
 ## Languages and Tools
-<div style="display:flex; gap:1.5rem; flex-wrap:wrap;">
+<div style="display:flex; gap:2rem; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="typescript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" title="nextjs" />
  
