@@ -1,6 +1,6 @@
 ## Hi, I'm Jamal 👋
 <p align="center"> 
-  <a href="https://github.com/salmon-01">
+  <a href="https://github.com/jamalona">
     <img src="https://github-stats-alpha.vercel.app/api?username=jamalona">
   </a>
 </p>
