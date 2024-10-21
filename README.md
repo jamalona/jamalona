@@ -22,6 +22,9 @@
 </div>
 
 ## Projects
+### [Goss](https://github.com/jamalona/Goss.git)
+Goss is a social networking platform that empowers users to connect through voicenotes and AI-generated voice interactions. The app offers real-time messaging, notifications, and a follower system, creating a dynamic, audio-based social experience.
+
 ### [PandaPath](https://github.com/jamalona/PandaPath.git)
 
 ## Past Projects
