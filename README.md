@@ -26,7 +26,9 @@
 Goss is a social networking platform that empowers users to connect through voicenotes and AI-generated voice interactions. The app offers real-time messaging, notifications, and a follower system, creating a dynamic, audio-based social experience.
 
 ### [PandaPath](https://github.com/jamalona/PandaPath.git)
+PandaPath is a personalized itinerary planning platform for trips to China. The app allows users to create tailored travel itineraries based on their preferences and explore pre-made options designed to highlight China’s rich culture and landscapes.
 
 ## Past Projects
 
 ### [Genny Jobs](https://github.com/jamalona/Genny-Jobs) (Refactor)
+Genny Jobs is a job review platform that provides insights into workplace environments and experiences across various industries. Users can share and explore reviews, helping others make informed decisions about their career paths. Gain valuable perspectives on job satisfaction, company culture, and more.
