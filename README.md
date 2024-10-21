@@ -1,10 +1,4 @@
 ## Hi, I'm Jamal 👋
-<p align="center"> 
-  <a href="https://github.com/jamalona">
-    <img src="https://github-stats-alpha.vercel.app/api?username=jamalona">
-  </a>
-</p>
-
 
 ## Languages and Tools
 <div style="display:flex; gap:2rem; flex-wrap:wrap;">
