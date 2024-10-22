@@ -32,6 +32,7 @@ Goss is a social networking platform that empowers users to connect through voic
 
 ### [PandaPath](https://github.com/jamalona/PandaPath.git)
 PandaPath is a personalized itinerary planning platform for trips to China. The app allows users to create tailored travel itineraries based on their preferences and explore pre-made options designed to highlight China’s rich culture and landscapes.
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
