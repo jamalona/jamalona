@@ -1,4 +1,5 @@
 ## Hi, I'm Jamal 👋
+I'm a **Full Stack Developer** with a passion for building robust and scalable web applications. I leverage my problem-solving skills and creativity to deliver seamless solutions. My tech stack includes **JavaScript**, **React**, **Node.js**, **Supabase**, **PostgreSQL**, and **Tailwind CSS**.
 
 ## Languages and Tools
 <div style="display:flex; gap:2rem; flex-wrap:wrap;">
